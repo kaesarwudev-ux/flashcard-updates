@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release",
+  "pub_date": "2026-06-06T09:43:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTdvcU9xamUyUWh2RERWNkVKaENhbEdRRnB2dWJmUFlxZHpXbnBZREd6dk04bHZaVFJoWnA5QjFJUWR1S1QzTTBvSVJLM0tleFVDVXV1ME1PMEdQcjI0R3BJMC9oVVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzQwMzE5CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMS4wX3g2NC1zZXR1cC5leGUKTmdSeDNPZ3FhRnE4SWRreXlLR1JMNG1seTRXYm1MWW4vZ1RFT2VLcTNFcGI5WU5yVFVlV3hCSWZlNU9HaUp2bGdteGtwNytqek4wM1QxZWp1TXdqQmc9PQo=",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.1.0/LocalFirst-Flashcards_0.1.0_x64-setup.exe"
+    }
+  }
+}
