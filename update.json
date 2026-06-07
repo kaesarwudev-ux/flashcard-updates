@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release",
+  "version": "0.2.0",
+  "notes": "Initial MacOS release",
   "pub_date": "2026-06-06T09:43:00Z",
   "platforms": {
     "windows-x86_64": {
