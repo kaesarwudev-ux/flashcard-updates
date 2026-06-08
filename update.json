@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Initial MacOS release",
-  "pub_date": "2026-06-06T09:43:00Z",
+  "version": "0.3.0",
+  "notes": "Unlimited tokens, mobile UI improvements, updater fix",
+  "pub_date": "2026-06-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTdvcU9xamUyUWhwbFJhQzhiZTRvQVVZUE95OVkrazV4aXI3VzEveDE4NDZmUHVvMk4zMWNoUWswWWhvUVJySTJnNXhvSTZLMXdWYWpqQTJpNFlkTHNtWktQU2FqV1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODE1ODI5CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMi4wX3g2NC1zZXR1cC5leGUKUVNsamxTOERFYzN3UzFhSitvVjEvR1pEbk5LTWs0S2JlTEQwdkRYeTdCV0RmN0JRbXpkS0orNUN3TTM1QUNTMVJSZ291NzM5aU15bi84Q3JvOXpPQ1E9PQo=",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.2.0/LocalFirst-Flashcards_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN2Z5YmR6ZEJzYkpWWUNkZFVmU3Bvd3JiMWFkNmcrZHl5djZqVUJDdHh3WHZyc0dvS3BVZkMyNG1FeXFCTGRHdGI1ZEVxQWo4L1hWbU1abC9zTnc3Zi9Uc01HblRXUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODkyMjkwCWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4wX3g2NC1zZXR1cC5leGUKbjgwM2Y4RFpkRmlHR29vNjN1Y1poNnpDd3hqT3NET0NmTVozUFlGbzBic09jbjhDSThPSDhLRnhwL1d2cjN2bUJXUS83ems1b1FENm9PS3ZSRThmREE9PQo=",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.0/LocalFirst-Flashcards_0.3.0_x64-setup.exe"
     }
   }
 }
