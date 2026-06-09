@@ -1,19 +1,15 @@
 {
-  "version": "0.3.0",
-  "notes": "Unlimited tokens, mobile UI improvements, updater fix",
-  "pub_date": "2026-06-08T12:00:00Z",
+  "version": "0.3.1",
+  "notes": "Fix SSE streaming truncation, AI response caching with history cycling, maxTokens raised to 512K, unsaved-changes warning on SmartAssist dismiss",
+  "pub_date": "2026-06-09T19:48:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJ3cW12RFpLNGtveXdnaXgwVnhFVW1PSGg4ZWxKU1VQUWRoY0FlK1FYd3NYOXNab2JEN0h0RFJ4ZlJFL2JicVBzSGVFdDhvTThwOE5UK2RWei9HM09ldmRRSkhlUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA3OTc4CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4wX3g2NC1zZXR1cC5leGUKRUY2TU1CTnNXV1ovMlhPcy9lTXBmL29aajI2WmlDQm92SDh0ampQb1hiZmdpaHZuTmtUNkxoQjNMeUNyTGo0SlBwUDVuMXU3Y1FqTWhhQlpFNTJ5QWc9PQo=",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.0/LocalFirst-Flashcards_0.3.0_x64-setup.exe"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJ3cW12RFpLNHQ4c1dvRFpsMzEybGU0ZnFzRmdwVzJJSEkySFBoZEU1VHh2MG9ydGppNWdMUzd5UGdNUkxYbWVacUNYVVJGVy9zZjMvK2dyeitMaXR0dHZoVGNoTHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA0ODA5CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4wX2FhcmNoNjQuZG1nCklveWdwNFRBdUU3OWVLS201RU93VStJZ2ZxMGlDNHk1WlJ4OEZFY3FqSCtHdk51eFUyQnpOZFJIdG1VeEpYa1ZYY29FSHVTRmpMb2d4SzZyOHo0c0FRPT0K",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.0/LocalFirst-Flashcards_0.3.0_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTdvcU9xamUyUWkwK0ZJMGNKV0VwUGlnU1N2UFBDZWtCRmpXY0xhVTMzWTJ2ZkxLRzNJK25sY1dwM3hCWVkzUHNZQmhvaFdYeWI3RjNDeExwTGE0SEIxVjdCNExVdEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTkyMzQ2CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4xX3g2NC1zZXR1cC5leGUKUG90UEtCTmlieThLZm15V2xkV0pqb1lRUkxRMjh1VDhDM3FJRXNjdHBvMVVSUGFvVUxlYW1wUE91TUZYbE5EaE1hRVR6MFZvSGxhMXlRV2tVTEdUQ3c9PQo=",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.1/LocalFirst-Flashcards_0.3.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJ3cW12RFpLNHQ4c1dvRFpsMzEybGU0ZnFzRmdwVzJJSEkySFBoZEU1VHh2MG9ydGppNWdMUzd5UGdNUkxYbWVacUNYVVJGVy9zZjMvK2dyeitMaXR0dHZoVGNoTHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA0ODA5CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4wX2FhcmNoNjQuZG1nCklveWdwNFRBdUU3OWVLS201RU93VStJZ2ZxMGlDNHk1WlJ4OEZFY3FqSCtHdk51eFUyQnpOZFJIdG1VeEpYa1ZYY29FSHVTRmpMb2d4SzZyOHo0c0FRPT0K",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.0/LocalFirst-Flashcards_0.3.0_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTdvcU9xamUyUWtyckd4SUxvMEtka09CZGgzNkYrN3dCZExzM01GZXEzelRlZERUSENLNEo3eGVySVc3cTZrUzM0RlpmOHRsVFlYTXNLMkh0WjFaSUNibnlKclJ0bFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTkyNTQ1CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4xX2FhcmNoNjQuZG1nClJZak90QndOUDUxeWJqQXAwWWhEN1VxTEVvMkhnaHpOSXZoMkd0WDNiWWZxTzBYcHRNdHBwMmRCSGJkOGJ0aWRPWm5JZm00bDJJK0sxTzZhd1owV0JnPT0K",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.1/LocalFirst-Flashcards_0.3.1_aarch64.dmg"
     }
   }
 }
