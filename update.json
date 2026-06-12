@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "File upload for PDF/DOCX/PPTX in SmartAssist, custom font upload system, wider dialogs, card flip & free-answer fixes",
-  "pub_date": "2026-06-11T00:00:00Z",
+  "version": "0.3.3",
+  "notes": "Ollama setup guide with one-click TinyLlama pull, card animation fix, statistics tracking, AI prompt cleanup",
+  "pub_date": "2026-06-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMTEybWlaYlRTQ2NneDBVYUpUVGlVQUwraFZkcEh2bEIxYmJzTWxIZG96bGV2a2VhUnF1Q2VzZjVsMW9Hb1RUVlBnZjRUTHY0b0JJeXQ1enBkNlNhQ3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTcxOTY1CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4yX3g2NC1zZXR1cC5leGUKLzFGSXlvS1EzaWJhSjdGcUFBQ3V0T3crRmdzS2lMWitjS0xSWktJZ2hGY1dLUzJ3QUpiMm9iOWI1bnlPZUM5Y2liWnU1cjZCcFNuZlBQZjZUV09PQ1E9PQo=",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.2/LocalFirst-Flashcards_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMXhuaFMwYjBWV0NzWE1jTUk3cTArNmUwcE9Ub3VSUWVwcDJDZDAzRmJ6THlRNXBCYVYrODRmRm84TzlBMWtpQ0ZIc3dLMXFJRWVHZS9tL25vQ0xhSXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjU0NjAyCWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4zX3g2NC1zZXR1cC5leGUKMkZ6UWg0dmJuYWJTanR3WTV6ZUgwclpUbEVJTXAzbEtqNWdnV1VHM2lITXlGWmlWSkYydE5OSXFMTitSU2hScVp6MWZzc0orNmhqdjlZV2wrNWFYQUE9PQo=",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.3/LocalFirst-Flashcards_0.3.3_x64-setup.exe"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMTdLcFgzK2o1ZmxOOFVHMXAwd0wxbEZNYllRMlMyakw4eThWeHN0VXliWlNCTmJlbFRCclh5TW9kOFpsenBKb0lQYWZOWmtkanF5MThjN1hjcjdqY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTcyMDA3CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4yX2FhcmNoNjQuZG1nClYzb0VOZWdDTjc0VnVPV0x5T0FWQUdxdnZYaThmSWxZcXRwSk5pR282RXB1ZzVKSHUxM2ZxMXV6QUlxbUQ5bGJXWVlJWkxPdkI1TkZIOTRHVGVqbkNnPT0K",
