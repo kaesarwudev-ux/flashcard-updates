@@ -1,15 +1,15 @@
 {
   "version": "0.3.3",
-  "notes": "Ollama setup guide with one-click TinyLlama pull, card animation fix, statistics tracking, AI prompt cleanup",
-  "pub_date": "2026-06-12T00:00:00Z",
+  "notes": "See the release page for details.",
+  "pub_date": "2026-06-12T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMXhuaFMwYjBWV0NzWE1jTUk3cTArNmUwcE9Ub3VSUWVwcDJDZDAzRmJ6THlRNXBCYVYrODRmRm84TzlBMWtpQ0ZIc3dLMXFJRWVHZS9tL25vQ0xhSXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjU0NjAyCWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4zX3g2NC1zZXR1cC5leGUKMkZ6UWg0dmJuYWJTanR3WTV6ZUgwclpUbEVJTXAzbEtqNWdnV1VHM2lITXlGWmlWSkYydE5OSXFMTitSU2hScVp6MWZzc0orNmhqdjlZV2wrNWFYQUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMXdBSHhTcmV4dTNKdFhVeUNMTTI1OVFVU2hDbGhyNmZCU01PeWtpUHhyeFBacVozSEZzL0tqS2NBNGx1UTZrWXVNR09SNU1CL2VDUzAvTitvNDluZ0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjU4MjkxCWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4zX3g2NC1zZXR1cC5leGUKdHNNOVJWWUpacVNhY1dVdVNrNEw5cGVFbXNVRVFQK21oRlU4aDVteXlrWElXRHVBeEUzeU5jSXhnbFlLSkxXaXkxOW1RUzllV3d6d2ZxS1N6ckd2REE9PQo=",
       "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.3/LocalFirst-Flashcards_0.3.3_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMTdLcFgzK2o1ZmxOOFVHMXAwd0wxbEZNYllRMlMyakw4eThWeHN0VXliWlNCTmJlbFRCclh5TW9kOFpsenBKb0lQYWZOWmtkanF5MThjN1hjcjdqY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTcyMDA3CWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4yX2FhcmNoNjQuZG1nClYzb0VOZWdDTjc0VnVPV0x5T0FWQUdxdnZYaThmSWxZcXRwSk5pR282RXB1ZzVKSHUxM2ZxMXV6QUlxbUQ5bGJXWVlJWkxPdkI1TkZIOTRHVGVqbkNnPT0K",
-      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.2/LocalFirst-Flashcards_0.3.2_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS09oampEcnRIMStSd2k3ZUExN3J6MC9UWVlhMFUvZGUwa1JNRTY5czQyMytweFBSdDEzZEd4Uzg0QndvdnJKb1VKSVFnQ3JJVVdFNTJ3SERrckJjeUU0azBNSHFwaGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjU4MzAwCWZpbGU6TG9jYWxGaXJzdC1GbGFzaGNhcmRzXzAuMy4zX2FhcmNoNjQuZG1nCkdIaVl0eFZSSVZpeGRjRDlFUk5MaktlcWpJWW9SVjhVVk5DSGlVdzdnK2Z3TEhNbENaVEdmOEFjR2tIaVBKaHdZYUhteWFwWTF0NDJRaEVMbGFQbEJRPT0K",
+      "url": "https://github.com/kaesarwudev-ux/flashcard-updates/releases/download/v0.3.3/LocalFirst-Flashcards_0.3.3_aarch64.dmg"
     }
   }
 }
